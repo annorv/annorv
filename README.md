@@ -4,10 +4,8 @@
 <h3 align="center">✨ Data Scientist | Educator | AI Builder | Storyteller ✨</h3>
 
 <p align="center">
-  <a href="https://veronicasdatapath.com">🌐 Website</a> •
-  <a href="https://linkedin.com/in/yourhandle">🔗 LinkedIn</a> •
-  <a href="https://twitter.com/yourhandle">🐦 Twitter</a> •
-  <a href="mailto:youremail@example.com">📩 Email</a>
+  <a href="https://www.instagram.com/veronicasdatapath/?hl=en">🌐 Instagram</a> •
+  <a href="[https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/veronica-a-7a905810b/)">🔗 LinkedIn</a> •
 </p>
 
 ---
