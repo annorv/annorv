@@ -13,7 +13,7 @@
 ### 👩🏾‍💻 About Me
 
 - 🎓 Building tech, data, and education projects to empower young people  
-- 💡 Working on: `What My Dash Cam Sees`, `The Experience Pathway`, `Levelory AI, and more  
+- 💡 Working on: `What My Dash Cam Sees`, `The Experience Pathway`, `Levelory AI`, and more  
 - 🧠 Exploring AI, cultural heritage, Christian tech, and youth empowerment  
 - 📸 Founder of **The Experience Pathway** – real world experience for 13 to 18 year olds
 - ✍🏾 Sharing stories, learnings, and tools via **Veronica’s Data Path**
