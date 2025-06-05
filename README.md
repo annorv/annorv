@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Veronica (Vee)</h1>
 <h3 align="center">✨ Data Scientist | Educator | AI Builder | Storyteller ✨</h3>
 
