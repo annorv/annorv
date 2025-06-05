@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/veronicasdatapath/?hl=en">🌐 Instagram</a> •
-  <a href="[https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/veronica-a-7a905810b/)">🔗 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/veronica-a-7a905810b/">🔗 LinkedIn</a> •
 </p>
 
 ---
