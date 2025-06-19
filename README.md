@@ -56,8 +56,8 @@
 
 ### ⚡ Fun Fact
 I absolutely love travelling and have been to 26 countries so far!
-I love Avaiation and hope to get a PPL one day!
+I love Aviation and hope to get a PPL one day!
 
 ### ☕ Let’s Connect
 
-If you're curious, creative, or community-driven — I'd love to connect!
+I'd love to connect with curious, creative, or community-driven individuals!
