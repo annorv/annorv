@@ -47,10 +47,8 @@
 
 ### ✍🏾 Latest Blog Posts
 
-<[!-- BLOG-POST-LIST:START](https://medium.com/@veronica.annor/what-my-dash-cam-sees-a-data-scientists-take-on-road-safety-with-ai-4d95366da4e5) -->
+<[!-- BLOG-POST-LIST:START](https://medium.com/@veronica.annor/faith-culture-and-code-why-im-building-tools-for-young-people-and-the-black-community-12972c5a3d33) -->
 <!-- BLOG-POST-LIST:END -->
-
-> 🔁 This auto-updates with your latest Medium or Dev.to posts using a GitHub Action!
 
 ---
 
