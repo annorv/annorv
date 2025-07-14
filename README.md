@@ -21,7 +21,7 @@
 ### 🚀 Current Projects
 
 - 🛣️ `What My Dash Cam Sees` – real-time object detection + analytics using YOLOv8
-- 🧑🏾‍🏫 `The Experience Pathway` – AI-powered career & CV builder for teens
+- 🧑🏾‍🏫 `Vee Coach` – An interview preparation coach
 
 ---
 
